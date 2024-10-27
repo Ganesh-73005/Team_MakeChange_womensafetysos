@@ -3,7 +3,7 @@
 ### SS3 - saferoute prediction with gmm, kmeans clustering (red marks indicate tasmacs)
 
 ![Feature 1 Image](https://i.ibb.co/xLLs4b4/Screenshot-2024-10-27-161707.png)
-Here's a sample README.md for your K-Means Clustering project. You can modify it according to your specific project details and requirements.
+
 
 ```markdown
 # K-Means Clustering Project
@@ -102,10 +102,6 @@ After running the algorithm, the data points are clustered into distinct groups.
 - matplotlib
 - scikit-learn
 
-
-
-
-Feel free to customize this README to reflect your specific project details, including any additional features, data sources, or examples you may have!
 ### SS2 front end - figma design
 
 ![Feature 2 Image](https://i.ibb.co/VCfB0Br/Screenshot-2024-10-27-161140.png)
