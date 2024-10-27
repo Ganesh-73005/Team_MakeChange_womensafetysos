@@ -178,7 +178,7 @@ class SafeRouteGenerator:
 def main1():
     """Example usage of SafeRouteGenerator"""
    
-    API_KEY = "AIzaSyDP8Sy2pOrdMBp_7kvkgXHA-ZeIP_30gQQ"
+    API_KEY = ""
     route_generator = SafeRouteGenerator(API_KEY)
     
     try:
