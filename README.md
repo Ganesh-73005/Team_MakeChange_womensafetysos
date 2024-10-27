@@ -1,7 +1,7 @@
 
 ### SS3 - saferoute prediction with gmm, kmeans clustering
 
-![Feature 1 Image](https://ibb.co/bmm3fVf"><img src="https://i.ibb.co/xLLs4b4/Screenshot-2024-10-27-161707.png)
+![Feature 1 Image](https://i.ibb.co/xLLs4b4/Screenshot-2024-10-27-161707.png)
 
 ### SS2
 
