@@ -14,6 +14,11 @@
 
 ### Features:
 ## Sos alerts 
+
+![sos button to fetch current location]()
 ## Safestroutes
 ## fake alerts detection 
+
+# used db techniques to find fake alerts (repeated sos from same location , in recent days)
+![]()
 
