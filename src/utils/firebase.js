@@ -2,13 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, onAuthStateChanged, createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut as firebaseSignOut } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB9t2Wgvbl_NDa2dSMv5-NGkgWdLfwc614",
-  authDomain: "safeher-2b129.firebaseapp.com",
-  projectId: "safeher-2b129",
-  storageBucket: "safeher-2b129.appspot.com",
-  messagingSenderId: "309435057390",
-  appId: "1:309435057390:web:d0863974357d768955dfff",
-  measurementId: "G-KPQFFTNJZV"
+ 
 };
 
 // Initialize Firebase
