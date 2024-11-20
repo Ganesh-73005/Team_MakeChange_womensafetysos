@@ -95,7 +95,7 @@ class Login extends React.Component {
           </button>
 
           <p>{en.FORM_FIELDS.LOGIN_ALT_TEXT}</p>
-          <Link to="/signup">Sign up</Link>
+          <Link to="/register">Sign up</Link>
         </div>
       </form>
     );
