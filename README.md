@@ -2,7 +2,7 @@
 ## (https://drive.google.com/file/d/11TicyNKWkvhu1ccr1D0YBzNtVjomxPtw/view?usp=drive_link)
 ### SS3 - saferoute prediction with gmm, kmeans clustering (red marks indicate tasmacs)
 
-![Feature 1 Image](https://i.ibb.co/xLLs4b4/Screenshot-2024-10-27-161707.png)
+![Feature 1 Image](https://github.com/Ganesh-73005/Team_MakeChange_womensafetysos/blob/main/Screenshot%202024-10-27%20161707.png)
 
 
 ```markdown
